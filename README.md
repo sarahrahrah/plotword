@@ -13,3 +13,5 @@ newdoc = plotwordcounts.PrepareDocument(text="name_of_document.txt", numofwordsi
 
 
 The PrepareDocument class has several arguments.
+
+!["War and Peace example](/images/wandp_wordfreq.png)
