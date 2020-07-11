@@ -29,6 +29,7 @@ specificwords - the words for which to plot the word counts for over the course 
 
 !["War and Peace" example](/images/wandp_wordfreq.png)
 
+**Try experimenting with numofwordsineachchunk value for variations in graph output**: 
 
 !["Sense and Sensibility one](/images/sands_wordfreq1.png)
 
