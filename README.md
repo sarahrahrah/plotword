@@ -16,6 +16,6 @@ The PrepareDocument class has several arguments.
 
 !["War and Peace" example](/images/wandp_wordfreq.png)
 
-!["Sense and Sensibility" one](/images/Sense and Sensibility_wordfreq1.png)
+!["Sense and Sensibility one](/images/Sense and Sensibility_wordfreq1.png)
 
-!["Sense and Sensibility" two](/images/Sense and Sensibility_wordfreq2.png)
+!["Sense and Sensibility two](/images/Sense and Sensibility_wordfreq2.png)
