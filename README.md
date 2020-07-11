@@ -18,4 +18,4 @@ The PrepareDocument class has several arguments.
 
 !["Sense and Sensibility one](/images/sands_wordfreq1.png)
 
-!["Sense and Sensibility two](/images/sandsy_wordfreq2.png)
+!["Sense and Sensibility two](/images/sands_wordfreq2.png)
