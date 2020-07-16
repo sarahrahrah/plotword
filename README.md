@@ -1,7 +1,7 @@
 # plotword
 **plotword** is a small python package for visualizing word counts in text. It was made with :books: literary texts :books: in mind for digital humanities projects, but can be used for other large documents, such as legal documents as well. Its showplot() function provides a line chart of word counts for specified words over the course of the text.
 
-Dependencies are **matplotlib** and **nltk**, which must be installed. 
+Dependencies are **matplotlib** and **nltk**. 
 
 **How to use**:
 
